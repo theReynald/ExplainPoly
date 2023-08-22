@@ -1,0 +1,15 @@
+/Users/reynaldadolphe/Documents/ExplainPoly/bin/Debug/net6.0/ExplainPoly
+/Users/reynaldadolphe/Documents/ExplainPoly/bin/Debug/net6.0/ExplainPoly.deps.json
+/Users/reynaldadolphe/Documents/ExplainPoly/bin/Debug/net6.0/ExplainPoly.runtimeconfig.json
+/Users/reynaldadolphe/Documents/ExplainPoly/bin/Debug/net6.0/ExplainPoly.dll
+/Users/reynaldadolphe/Documents/ExplainPoly/bin/Debug/net6.0/ExplainPoly.pdb
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/ExplainPoly.csproj.AssemblyReference.cache
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/ExplainPoly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/ExplainPoly.AssemblyInfoInputs.cache
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/ExplainPoly.AssemblyInfo.cs
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/ExplainPoly.csproj.CoreCompileInputs.cache
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/ExplainPoly.dll
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/refint/ExplainPoly.dll
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/ExplainPoly.pdb
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/ExplainPoly.genruntimeconfig.cache
+/Users/reynaldadolphe/Documents/ExplainPoly/obj/Debug/net6.0/ref/ExplainPoly.dll
